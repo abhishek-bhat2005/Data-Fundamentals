@@ -1,1 +1,1 @@
-# Data-Fundamentals
+I’m excited to have completed the IBM Data Fundamentals course, where I gained a solid foundation in core data concepts such as data types, data structures, data collection, and data cleaning. The course also provided an introduction to databases and SQL, as well as an understanding of data security and ethical considerations. I also explored emerging trends in data science and AI, which has further fueled my interest in working with data. This experience has equipped me with valuable skills that I’m eager to apply as I continue to grow in the data field.
